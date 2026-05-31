@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Mayank+Makkar+%F0%9F%91%8B;System+Engineer+%40+TCS+%E2%80%A2+IIIT+Kota+'25;Building+production+LLM+pipelines;Async+Python+%E2%9C%A6+LangChain+%E2%9C%A6+Multimodal+AI" alt="intro typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Mayank+Makkar+%F0%9F%91%8B;AI+&+Full+Stack+Dev+%40+TCS+%E2%80%A2+IIIT+Kota+'25;Building+production+LLM+pipelines;Async+Python+%E2%9C%A6+LangChain+%E2%9C%A6+Multimodal+AI" alt="intro typing svg" />
 
 </div>
 
