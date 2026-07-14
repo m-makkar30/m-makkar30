@@ -33,7 +33,7 @@
 
 ### 👨‍💻 About me
 
-I'm a **System Engineer (AI & Services) at TCS Hyderabad** and a **2025 IIIT Kota grad** working at the intersection of backend systems and applied AI.
+I'm an **AI Engineer (AI & Services) at TCS Hyderabad** and a **2025 IIIT Kota grad** working at the intersection of backend systems and applied AI.
 
 - 🛠️ **Right now:** shipping a production pipeline that extracts structured data from PDFs and turns them into knowledge graphs for reasoning by multimodal LLMs — async Python, Pydantic, LangChain
 - 💼 **Past life:** full-stack CRM at **EMIAC Technologies** (React / Node / TypeScript / PostgreSQL) — 100+ users, NL search integration
